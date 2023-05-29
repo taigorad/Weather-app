@@ -1,0 +1,36 @@
+
+.Heder_of_page{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(2, 29, 37);
+}
+.image{
+    margin-left: 330px;
+    margin-top: 0px;
+
+}
+.image > img{
+    width: 500px;
+    height: 450px;
+    margin-left: 180px;
+
+}
+
+.header{
+    text-align: center;
+    margin-top: 5px;
+}
+button{
+    margin-left: 49%;
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+
+
+}
+button:hover{
+    background-color:black;
+    color:white ;
+}
